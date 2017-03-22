@@ -1,7 +1,7 @@
 # extract-font-awesome-names
 parses the names in the font-awesome icons CSS file, Coldfusion version
 
-(can use as a backend webservice for your javascript)
+You can use as a backend webservice for your javascript (or just copy the array below)
 
 returns something like this (from 4.7):
 
